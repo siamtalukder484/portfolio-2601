@@ -14,8 +14,8 @@ export interface SocialLink {
 
 // Replace these placeholders with your personal details.
 export const siteConfig = {
-  name: 'Your Name',
-  initials: 'YN',
+  name: 'Siam Talukder',
+  initials: 'ST',
   role: 'Frontend Developer',
   email: 'hello@example.com',
   location: 'Your City, Country',

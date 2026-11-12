@@ -66,7 +66,6 @@ export default function Hero() {
               Available for opportunities
             </motion.p>
           )}
-
           <motion.p variants={fadeUp} className="mb-4 font-mono text-xs font-medium tracking-[0.2em] text-subtle uppercase sm:text-sm">
             Hello, I'm a Frontend Developer
           </motion.p>

@@ -24,6 +24,7 @@ export const projects: Project[] = [
     image: dashboardThumbnail,
     imageAlt: 'Placeholder preview of an analytics dashboard with charts and stat cards',
     technologies: ['React.js', 'TypeScript', 'Tailwind CSS'],
+    liveUrl: "https://www.youtube.com/"
   },
   {
     title: 'E-commerce Storefront',
